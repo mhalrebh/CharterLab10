@@ -1,11 +1,22 @@
-<group name>
+<Group 801/901>
 
 
-Availability for meeting expectations
-Response time to communication expectations
-Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
-Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
+1. Availability for meeting expectations
+2. Response time to communication expectations
+3. Definition of done: when is a task complete? (hint: "I'm done with that but I didn't check it in to github" is not done.)
+
+For a task to be done, the group member has to fully complete the task. This includes creating a full set of tests before
+starting the project to make sure it's functioning properly and to submit it to github. The work has to be done on time
+or it will not count as done (ie late submissions) unless agreed upon by the other team members beforehand. and Lastly,
+the code has to do what it's supposed to do.
+
+4. Scrum meeting format/frequency and distribution of documentation tasks (meeting minutes, updating task board)
 Procedure for adopting policies (e.g. code style, code check-in steps, documentation updates)
+
+For scrum meetings, we should meet at least once a week. Depending on how light or heavy the workload is, new meetings may be added or removed.
+Days and time at which we will be meeting weekly will be discussed when all the group members are here. The times should not be changed for
+consistency purposes.
+
 if you adopt such a policy during the initial meeting, put it here
 Procedure for handling a member who is not meeting expectations
 must include at least 3 actions before involving the instructor
